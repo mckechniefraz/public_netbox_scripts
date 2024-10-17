@@ -1,0 +1,3 @@
+name,role,manufacturer,device_type,status,site,location,rack,position,face,description
+test-pp01,Patch Panel,Generic,LC-24-port Fiber Patch Panel,active,Example Site 1,comms room 1,comms-01-rack-01,42,front,example pp01
+test-pp02,Patch Panel,Generic,LC-24-port Fiber Patch Panel,active,Example Site 1,comms room 1,comms-01-rack-02,42,front,example pp02

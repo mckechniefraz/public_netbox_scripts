@@ -1,0 +1,2 @@
+address,status,dns_name
+10.0.0.1/8,active,example.exampledomain.local

@@ -1,0 +1,25 @@
+side_a_device,side_a_type,side_a_name,side_b_device,side_b_type,side_b_name,type
+test-pp01,dcim.rearport,Port 1,test-pp02,dcim.rearport,Port 1,cat6a
+test-pp01,dcim.rearport,Port 2,test-pp02,dcim.rearport,Port 2,cat6a
+test-pp01,dcim.rearport,Port 3,test-pp02,dcim.rearport,Port 3,cat6a
+test-pp01,dcim.rearport,Port 4,test-pp02,dcim.rearport,Port 4,cat6a
+test-pp01,dcim.rearport,Port 5,test-pp02,dcim.rearport,Port 5,cat6a
+test-pp01,dcim.rearport,Port 6,test-pp02,dcim.rearport,Port 6,cat6a
+test-pp01,dcim.rearport,Port 7,test-pp02,dcim.rearport,Port 7,cat6a
+test-pp01,dcim.rearport,Port 8,test-pp02,dcim.rearport,Port 8,cat6a
+test-pp01,dcim.rearport,Port 9,test-pp02,dcim.rearport,Port 9,cat6a
+test-pp01,dcim.rearport,Port 10,test-pp02,dcim.rearport,Port 10,cat6a
+test-pp01,dcim.rearport,Port 11,test-pp02,dcim.rearport,Port 11,cat6a
+test-pp01,dcim.rearport,Port 12,test-pp02,dcim.rearport,Port 12,cat6a
+test-pp01,dcim.rearport,Port 13,test-pp02,dcim.rearport,Port 13,cat6a
+test-pp01,dcim.rearport,Port 14,test-pp02,dcim.rearport,Port 14,cat6a
+test-pp01,dcim.rearport,Port 15,test-pp02,dcim.rearport,Port 15,cat6a
+test-pp01,dcim.rearport,Port 16,test-pp02,dcim.rearport,Port 16,cat6a
+test-pp01,dcim.rearport,Port 17,test-pp02,dcim.rearport,Port 17,cat6a
+test-pp01,dcim.rearport,Port 18,test-pp02,dcim.rearport,Port 18,cat6a
+test-pp01,dcim.rearport,Port 19,test-pp02,dcim.rearport,Port 19,cat6a
+test-pp01,dcim.rearport,Port 20,test-pp02,dcim.rearport,Port 20,cat6a
+test-pp01,dcim.rearport,Port 21,test-pp02,dcim.rearport,Port 21,cat6a
+test-pp01,dcim.rearport,Port 22,test-pp02,dcim.rearport,Port 22,cat6a
+test-pp01,dcim.rearport,Port 23,test-pp02,dcim.rearport,Port 23,cat6a
+test-pp01,dcim.rearport,Port 24,test-pp02,dcim.rearport,Port 24,cat6a
