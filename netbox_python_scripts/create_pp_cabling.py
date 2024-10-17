@@ -10,7 +10,7 @@ porttype [ --porttype ] - String with the type of port the cable will be.
 
 Once completed, the script will export the data to a .csv file using the apanel argument. 
 
-Example usage: python3 usefulScripts/createPPCableing.py --apanel test-pp01 --bpanel test-pp02 --portcount 24 --porttype cat6a 
+Example usage: python3 netbox_python_scripts/create_pp_cableing.py --apanel test-pp01 --bpanel test-pp02 --portcount 24 --porttype cat6a 
 
 '''
 
